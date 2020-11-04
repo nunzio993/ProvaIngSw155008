@@ -19,6 +19,7 @@ public class App
             lista.add(i);
         }
         myListUnit.ordineCrescente(lista);
+        myListUnit.ordineDecrescente(lista);
     }
 
 }
